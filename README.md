@@ -94,3 +94,5 @@ This is a better way of generalisation.
 pip install -r requirements.txt
 python main.py
 
+---
+output videp : https://drive.google.com/file/d/1musrX-uroWwQm9oz0kVueRfN3rOKkt47/view?usp=sharing
